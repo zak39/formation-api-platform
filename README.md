@@ -438,10 +438,14 @@ $ symfony console make:state-provider
  Next: Open your new state provider class and start customizing it.
  ```
 
+Résultat sur on retourne sur l'interface d'API Platfom ::
+
+![Résultat dans l'interface d'api platfrom](./img/uri-api03.png)
+
 ## Autres
 
 Il existe un repo pour jouer avec API Platform accessible pour les débutants : https://github.com/api-platform/demo .
 
 ## Remerciements
 
-Merci à @soyuka et de @dunglas d'avoir préparer cet atelier de 2h durant le Forum PHP de 2024.
+Merci à @soyuka et de @dunglas d'avoir préparé cet atelier de 2h durant le Forum PHP de 2024.
